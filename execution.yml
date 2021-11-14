@@ -4,9 +4,9 @@ execution:
   hold-for: 3m
   ramp-up: 2m
   
-  scenerio: Choose Flight
+  scenerio: Choose flight
  scenarios:
-   Choose Flight:
+   Choose flight:
      requests:
      - label: blazedemo
        method: GET
